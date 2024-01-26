@@ -1,0 +1,3 @@
+[submodule "PDFReader"]
+    path = AI-Engineer/2nlp/project1
+    url = https://github.com/varad-comrad/PDFReader.git
