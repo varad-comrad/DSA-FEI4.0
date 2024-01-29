@@ -27,6 +27,7 @@ def main():
     push_command_template = 'git push -u origin {}'
     merge_submodules = 'git submodule update --remote --merge'
     print(run_command(merge_submodules), flush=True)
+    print(len(get_submodules()))
     if not args.submodule_message:
         args.submodule_message = [args.message] * len(get_submodules())
     for submodule, message in zip(get_submodules(), args.submodule_message):

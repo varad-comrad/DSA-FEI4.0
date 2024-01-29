@@ -5,3 +5,11 @@
 [submodule "text-classif"]
     path = AI-Engineer/1deep-learning/project2_2
     url = https://github.com/varad-comrad/TextClassification.git
+
+[submodule "Delphi"]
+    path = AI-Engineer/6bonus/Delphi
+    url = https://github.com/F-R-I-D-A-Y-Project/Delphi.git
+
+[submodule "cattleManager"]
+    path = AI-Engineer/3cv/project1
+    url = https://github.com/varad-comrad/cattleManager.git
