@@ -2,3 +2,6 @@ teste*
 **.keras
 **.weights
 md
+**model.safetensors**
+**.zip
+**finetuned
