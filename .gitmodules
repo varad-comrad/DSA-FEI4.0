@@ -13,3 +13,7 @@
 [submodule "cattleManager"]
     path = AI-Engineer/3cv/project1
     url = https://github.com/varad-comrad/cattleManager.git
+
+[submodule "FRIDAYv0"]
+    path = AI-Engineer/2nlp/project2
+    url = https://github.com/F-R-I-D-A-Y-Project/F.R.I.D.A.Y.-v0
