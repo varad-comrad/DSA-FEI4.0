@@ -1,7 +1,3 @@
-[submodule "project1"]
-    path = AI-Engineer/2nlp/project1
-    url = https://github.com/varad-comrad/ChatPDF.git
-
 [submodule "text-classif"]
     path = AI-Engineer/1deep-learning/project2_2
     url = https://github.com/varad-comrad/TextClassification.git
